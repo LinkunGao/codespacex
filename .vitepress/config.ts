@@ -427,6 +427,10 @@ function createVuePluginSidebar() {
           text: "Plugin API Gateway Guide",
           link: "/docs/vue-plugin/plugin-api-gateway-guide",
         },
+        {
+          text: "Plugin Usage Guide",
+          link: "/docs/vue-plugin/nginx-dynamic-routing-architecture-zh",
+        }
       ],
     },
   ];
